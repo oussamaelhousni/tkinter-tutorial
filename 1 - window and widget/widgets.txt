@@ -1,0 +1,2 @@
+widgets are the building blocks of tkinter
+widgets : buttons ,inputs, frames 
